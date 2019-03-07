@@ -26,3 +26,7 @@
 [WARNING]:::__main__:::<module>:::12:::WARNING
 [ERROR]:::__main__:::<module>:::13:::ERROR
 [CRITICAL]:::__main__:::<module>:::14:::CRITICAL
+[INFO]:::__main__:::<module>:::11:::INFO
+[WARNING]:::__main__:::<module>:::12:::WARNING
+[ERROR]:::__main__:::<module>:::13:::ERROR
+[CRITICAL]:::__main__:::<module>:::14:::CRITICAL
