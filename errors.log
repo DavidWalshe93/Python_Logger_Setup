@@ -6,3 +6,9 @@
 [CRITICAL]:::__main__:::<module>:::10:::CRITICAL
 [ERROR]:::2019-03-06 15:05:10,103:::__main__:::<module>:::10:::ERROR
 [CRITICAL]:::2019-03-06 15:05:10,106:::__main__:::<module>:::11:::CRITICAL
+[ERROR]:::2019-03-07 18:58:23,159:::__main__:::<module>:::16:::ERROR
+[CRITICAL]:::2019-03-07 18:58:23,159:::__main__:::<module>:::17:::CRITICAL
+[ERROR]:::__main__:::<module>:::16:::ERROR
+[CRITICAL]:::__main__:::<module>:::17:::CRITICAL
+[ERROR]:::__main__:::<module>:::13:::ERROR
+[CRITICAL]:::__main__:::<module>:::14:::CRITICAL

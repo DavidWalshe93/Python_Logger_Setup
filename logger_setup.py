@@ -9,10 +9,10 @@ import yaml
 
 
 def setup_logging(
-    # Default path needs to be placed in your root project directory.
+    # Default path needs to be placed in your root project directory if you don't use the env_key setup
     default_path='logging_config.yaml',
     default_level=logging.INFO,
-    # Setup an environment variable to your logger_config.yaml path and use it here
+    # Setup an environment variable to your logger_config.yaml path and use it here with the environment key
     env_key='LOG_CONFIG',
     append=True
 ):

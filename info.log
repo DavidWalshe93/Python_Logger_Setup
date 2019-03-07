@@ -14,3 +14,15 @@
 [WARNING]:::2019-03-06 15:05:10,103:::__main__:::<module>:::9:::WARNING
 [ERROR]:::2019-03-06 15:05:10,103:::__main__:::<module>:::10:::ERROR
 [CRITICAL]:::2019-03-06 15:05:10,106:::__main__:::<module>:::11:::CRITICAL
+[INFO]:::2019-03-07 18:58:23,158:::__main__:::<module>:::14:::INFO
+[WARNING]:::2019-03-07 18:58:23,158:::__main__:::<module>:::15:::WARNING
+[ERROR]:::2019-03-07 18:58:23,159:::__main__:::<module>:::16:::ERROR
+[CRITICAL]:::2019-03-07 18:58:23,159:::__main__:::<module>:::17:::CRITICAL
+[INFO]:::__main__:::<module>:::14:::INFO
+[WARNING]:::__main__:::<module>:::15:::WARNING
+[ERROR]:::__main__:::<module>:::16:::ERROR
+[CRITICAL]:::__main__:::<module>:::17:::CRITICAL
+[INFO]:::__main__:::<module>:::11:::INFO
+[WARNING]:::__main__:::<module>:::12:::WARNING
+[ERROR]:::__main__:::<module>:::13:::ERROR
+[CRITICAL]:::__main__:::<module>:::14:::CRITICAL

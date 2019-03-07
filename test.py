@@ -5,10 +5,7 @@
 import logger_setup
 import logging
 
-
-
-# logger_setup.setup_logging("logger_config.yaml", default_level=logging.INFO, env_key="")
-logger_setup.setup_logging("logger_config_wtime.yaml", default_level=logging.INFO, env_key="", )
+logger_setup.setup_logging()
 logger = logging.getLogger(__name__)
 logger.debug("DEBUG")
 logger.info("INFO")
